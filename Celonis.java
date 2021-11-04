@@ -1,6 +1,6 @@
 public class Celonis {
 	
-	public void method1() {
+	public void methodChanged() {
 		System.out.println("method1");	
 	}
 
