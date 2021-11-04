@@ -1,0 +1,7 @@
+1. Pasi qe karakteri "a" eshte perdorur ne metodat method dhe findFirstShortWordStartingWithA, 
+atehere mendoj se do te kishte qene me mire qe ne vend te "a" te shkruhet variabla SPECIAL_CHARACTER.
+
+2. Metoda e pare method mendoj se duhet te kete nje emer me deskriptiv, si psh. listOfShortestWordsWithA.
+
+3. Tek metoda findFirstShortWordStartingWithA ndoshta kish qene me mire vetem me kthy elementin e pare te listes shortestWordsWithA 
+sepse ajo permban vetem fjale me shkronjen "a", keshtu qe nuk eshte e nevojshme me iteru prape neper ate liste.
